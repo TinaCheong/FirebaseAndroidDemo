@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551154546899",
+    "firebase_url": "https://fir-apple-2f63b.firebaseio.com",
+    "project_id": "fir-apple-2f63b",
+    "storage_bucket": "fir-apple-2f63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551154546899:android:93ff16852291a728cd3c26",
+        "android_client_info": {
+          "package_name": "student.tina.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551154546899-qvdg4g6fjfpsblf9t1imkigm4no4f98q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRIStZ3yP2yfE8_DU5Eod2AtCrTI8ANUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551154546899-qvdg4g6fjfpsblf9t1imkigm4no4f98q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551154546899-70k8qvu874e6o2u5rl3jn3ufkjniqu62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "huei.project1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
